@@ -1,0 +1,11 @@
+gradio
+scikit-learn
+pandas
+numpy
+joblib
+lightgbm
+xgboost
+tensorflow
+tldextract
+beautifulsoup4
+requests
