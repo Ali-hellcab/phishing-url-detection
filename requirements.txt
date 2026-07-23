@@ -1,9 +1,7 @@
-gradio
-scikit-learn
+tensorflow-cpu==2.15.0
 pandas
 numpy
+scikit-learn
 joblib
-tensorflow
-tldextract
-beautifulsoup4
-requests
+flask
+gunicorn
